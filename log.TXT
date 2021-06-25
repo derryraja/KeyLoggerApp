@@ -1,0 +1,1 @@
+// Mentioned below are the keystrokes captured while running the KeyLogger.py code. 
